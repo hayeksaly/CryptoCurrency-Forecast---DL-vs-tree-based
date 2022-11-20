@@ -1,0 +1,11 @@
+Libraries required:
+Pandas_datareader # pip install pandas_datareader # to read data from yahoo.finance
+datetime # pip install datetime #to handle datetime values
+Pandas # pip install pandas # for dataframe manipulation
+numpy # pip install numpy # manipulate arrays and calculations
+matplotlib # pip install matplotlib # plot models results
+xgboost  # pip install xgboost #machine learning model
+sklearn # pip install sklearn 
+tensorflow  #pip install tensorflow # deep learning library
+inquirer # pip install inquirer # used to manipulate user input
+
